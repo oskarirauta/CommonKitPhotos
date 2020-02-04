@@ -21,7 +21,7 @@ features at all.
 			'https://raw.githubusercontent.com/oskarirauta/CommonKitPhotos/master/Screenshots/PhotoPicker.png'
 		]
 
-  s.dependency 'CommonKit'
+  s.dependency 'CommonKit', '~> 1.9.6'
 
   s.swift_version = '5.0'
   s.ios.deployment_target = '13.2'
@@ -36,7 +36,7 @@ features at all.
 		]
 
   s.resources = [
-		'CommonKitPhotos/PhotoPicker/Resources//UIPhotoPicker.xcassets'
+		'CommonKitPhotos/PhotoPicker/Resources/UIPhotoPicker.xcassets'
 		]
  
 end
