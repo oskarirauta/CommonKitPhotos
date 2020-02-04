@@ -7,7 +7,7 @@ This framework requires CommonKit framework - code from this framework was origi
 ### PhotoPicker
 PhotoPicker and PhotoPreview are classes which allow you to present a photo picker with possibility of selecting multiple assets at once, PhotoPrevies is a photo displayer class. These both utilize AlertController from CommonKit. Camera support (if device has a camera, simulator doesn't and camera code doesn't work for OS X) is also supported in PhotoPicker. Recording or picking a video is not supported by this system, only stills. Camera interface includes common controls.
 
-![PhotoPicker](https://raw.githubusercontent.com/oskarirauta/CommonKit/master/Screenshots/PhotoPicker.png)
+![PhotoPicker](https://raw.githubusercontent.com/oskarirauta/CommonKitPhotos/master/Screenshots/PhotoPicker.png)
 
 
 ### License
