@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CommonKitPhotos'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.license          = { :type => 'Free', :text => 'Free' }
   s.summary          = 'A Swift framework extending CommonKit with photo and camera features'
  
