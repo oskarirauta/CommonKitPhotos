@@ -21,7 +21,7 @@ features at all.
 			'https://raw.githubusercontent.com/oskarirauta/CommonKitPhotos/master/Screenshots/PhotoPicker.png'
 		]
 
-  s.dependency 'CommonKit', '~> 1.9.6'
+  s.dependency 'CommonKit', '~> 2.0.0'
 
   s.swift_version = '5.0'
   s.ios.deployment_target = '13.2'
